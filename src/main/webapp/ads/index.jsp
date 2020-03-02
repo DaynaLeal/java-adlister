@@ -18,7 +18,7 @@
 
     <jsp:include page="../partials/navbar.jsp" />
 
-    <h1>Here are all ads</h1>
+    <h1>Advertisements</h1>
 
     <ul>
         <c:forEach items="${ads}" var="ad">
